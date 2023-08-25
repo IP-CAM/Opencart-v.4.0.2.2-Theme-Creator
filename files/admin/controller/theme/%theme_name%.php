@@ -1,5 +1,5 @@
 <?php
-namespace Opencart\Admin\Controller\Extension\%Name%\Theme;
+namespace Opencart\Admin\Controller\Extension\%ThemeName%\Theme;
 /**
  * Class %ThemeName%
  *
