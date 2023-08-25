@@ -11,7 +11,7 @@ Generates an extension: copy template files from `./files` in new temporary fold
 - %author_link% with $author_link;
 archive to `$theme_name.ocmod.zip` in the $output_dir | $output_file.;
 
-## How us it
+## How to use it
 
 1. Configure your theme: name, output_dir, output_file, version, author_name, author_link.
 ```bash
